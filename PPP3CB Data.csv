@@ -1,4 +1,4 @@
-donor_id,donor_name,donor_age,structure_id,structure_name,structure_abbreviation,
+donor_id,donor_name,donor_age,structure_id,structure_name,structure_abbreviation,expression_level
 12296,H376.VI.50,4 mos,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,6.8459
 12890,H376.VI.52,4 mos,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,6.7052
 12977,H376.VII.51,10 mos,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,6.3547
