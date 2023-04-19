@@ -1,0 +1,47 @@
+donor_id,donor_name,donor_age,structure_id,structure_name,structure_abbreviation,expression_level
+12296,H376.VI.50,4 mos,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,4.3162
+12889,H376.VI.51,4 mos,10173,dorsolateral prefrontal cortex,DFC,5.3122
+12889,H376.VI.51,4 mos,10185,ventrolateral prefrontal cortex,VFC,5.5422
+12890,H376.VI.52,4 mos,10173,dorsolateral prefrontal cortex,DFC,4.2624
+12890,H376.VI.52,4 mos,10185,ventrolateral prefrontal cortex,VFC,4.5875
+12890,H376.VI.52,4 mos,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,4.5328
+12977,H376.VII.51,10 mos,10173,dorsolateral prefrontal cortex,DFC,5.219
+12977,H376.VII.51,10 mos,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,5.3595
+12830,H376.VIII.51,1 yrs,10173,dorsolateral prefrontal cortex,DFC,4.0686
+12830,H376.VIII.51,1 yrs,10185,ventrolateral prefrontal cortex,VFC,4.1199
+12830,H376.VIII.51,1 yrs,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,4.5071
+12979,H376.VIII.53,2 yrs,10173,dorsolateral prefrontal cortex,DFC,6.868
+12979,H376.VIII.53,2 yrs,10185,ventrolateral prefrontal cortex,VFC,6.8456
+12979,H376.VIII.53,2 yrs,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,6.2244
+12836,H376.VIII.52,3 yrs,10185,ventrolateral prefrontal cortex,VFC,6.9641
+12980,H376.VIII.54,3 yrs,10173,dorsolateral prefrontal cortex,DFC,5.7466
+12980,H376.VIII.54,3 yrs,10185,ventrolateral prefrontal cortex,VFC,6.2617
+12980,H376.VIII.54,3 yrs,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,6.5877
+12298,H376.VIII.50,4 yrs,10173,dorsolateral prefrontal cortex,DFC,5.6265
+12298,H376.VIII.50,4 yrs,10185,ventrolateral prefrontal cortex,VFC,5.4521
+12841,H376.IX.51,8 yrs,10173,dorsolateral prefrontal cortex,DFC,7.2962
+12841,H376.IX.51,8 yrs,10185,ventrolateral prefrontal cortex,VFC,7.6974
+12841,H376.IX.51,8 yrs,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,7.5903
+12981,H376.IX.52,8 yrs,10173,dorsolateral prefrontal cortex,DFC,5.2338
+12981,H376.IX.52,8 yrs,10185,ventrolateral prefrontal cortex,VFC,5.8015
+12981,H376.IX.52,8 yrs,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,5.0401
+12289,H376.IX.50,11 yrs,10173,dorsolateral prefrontal cortex,DFC,5.6745
+12289,H376.IX.50,11 yrs,10185,ventrolateral prefrontal cortex,VFC,5.6905
+12289,H376.IX.50,11 yrs,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,5.6189
+12831,H376.X.51,13 yrs,10173,dorsolateral prefrontal cortex,DFC,6.1176
+12831,H376.X.51,13 yrs,10185,ventrolateral prefrontal cortex,VFC,6.0012
+12831,H376.X.51,13 yrs,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,6.0246
+12984,H376.X.53,18 yrs,10173,dorsolateral prefrontal cortex,DFC,6.5302
+12984,H376.X.53,18 yrs,10185,ventrolateral prefrontal cortex,VFC,6.6333
+12984,H376.X.53,18 yrs,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,6.9895
+12832,H376.X.52,19 yrs,10173,dorsolateral prefrontal cortex,DFC,6.1109
+12832,H376.X.52,19 yrs,10185,ventrolateral prefrontal cortex,VFC,5.7067
+12832,H376.X.52,19 yrs,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,5.8856
+13057,H376.XI.60,21 yrs,10173,dorsolateral prefrontal cortex,DFC,5.8243
+13057,H376.XI.60,21 yrs,10185,ventrolateral prefrontal cortex,VFC,5.225
+13057,H376.XI.60,21 yrs,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,5.7647
+12300,H376.XI.50,23 yrs,10185,ventrolateral prefrontal cortex,VFC,6.1297
+12300,H376.XI.50,23 yrs,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,5.978
+12290,H376.XI.52,30 yrs,10173,dorsolateral prefrontal cortex,DFC,5.8291
+12290,H376.XI.52,30 yrs,10185,ventrolateral prefrontal cortex,VFC,5.7391
+12290,H376.XI.52,30 yrs,10278,anterior (rostral) cingulate (medial prefrontal) cortex,MFC,5.7267
